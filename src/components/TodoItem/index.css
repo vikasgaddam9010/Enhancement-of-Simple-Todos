@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.liContainer {
+  color: #000000;
+  border-radius: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+button {
+  background-color: #ffffff;
+  border: 2px #ff0b37 solid;
+  color: #ff0b37;
+  width: 100px;
+  border-radius: 5px;
+}
